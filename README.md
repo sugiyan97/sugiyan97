@@ -17,12 +17,12 @@
 ```typescript
 const sugiyan97 = {
   location: "Japan",
-  code: ["JavaScript", "TypeScript", "Python", "Golang],
+  code: ["JavaScript", "TypeScript", "Python", "Golang"],
   technologies: {
     frontend: ["React", "Next.js", "Vue.js"],
-    backend: ["Node.js", "Express", "Gin", "FastAPI"],
-    database: ["PostgreSQL", "DynamoDB", "Spanner"],
-    devOps: ["Docker", "AWS", "GCP"]
+    backend: ["Node.js", "Express", "Gin", "FastAPI", "Flask"],
+    database: ["PostgreSQL", "DynamoDB", "Spanner", "MySQL"],
+    devOps: ["Docker", "AWS", "GCP", "Terraform"]
   },
   currentFocus: "Building scalable web applications",
   learning: "Cloud Architecture & AI/ML"
