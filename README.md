@@ -63,11 +63,11 @@ const sugiyan97 = {
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-ysss11.vercel.app/api?username=sugiyan97&show_icons=true" />
+<a href="https://github.com/stats-organization/github-readme-stats-action">
+  <img align="center" src="./profile/stats.svg" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-git-master-ysss11.vercel.app/api/top-langs/?username=sugiyan97&layout=compact&langs_count=6" />
+<a href="https://github.com/stats-organization/github-readme-stats-action">
+  <img align="center" src="./profile/top-langs.svg" />
 </a>
 
 </div>
